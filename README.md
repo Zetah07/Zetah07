@@ -1,5 +1,6 @@
 ### Hey, nice to see you. 
-<p align="center"><a href="https://zetah.dev"><img width="80%" alt="Hello, I'm Johan Sebastian 👋💻 I do open source!" src="" /></a></p>
+
+<p align="center"><a href="https://zetah.dev"><img width="80%" alt="Hello, I'm Johan Sebastian 👋💻 I do open source!" src="https://user-images.githubusercontent.com/112713916/207401124-97385bf4-18d6-42a2-a9c9-e698d6c48cb1.jpg" /></a></p>
 
 ## about me in code
 ```js 

@@ -11,7 +11,7 @@ const Zetah07{
   pronouns: 'he' | 'him',
   from:'Medellín, Colombia',
   technologies: 'Fullstack Dev',
-  code: ['Javascript', 'HTML', 'CSS', Typescript, Python /* in progress*/],
+  code: ['Javascript', 'HTML', 'CSS', 'Typescript', 'Python' /* in progress*/],
     frontEnd:{
       js:['React','NextJs']
       },

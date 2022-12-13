@@ -7,7 +7,7 @@
 
 ## about me in code
 ```js 
-const Zetah07{
+const Zetah07={
   pronouns: 'he' | 'him',
   from:'Medellín, Colombia',
   technologies: 'Fullstack Dev',

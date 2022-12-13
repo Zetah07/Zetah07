@@ -1,7 +1,8 @@
+### Hey, nice to see you. 
 <p align="center"><a href="https://twitter.com/Zetah_JS"><img width="80%" alt="Hello, I'm Johan Sebastian 👋💻 I do open source!" src="" /></a></p>
 
-### Hey, nice to see you. 
 
+## about me in code
 ```js 
 const Zetah07{
   pronouns: 'he' | 'him',
@@ -20,7 +21,7 @@ const Zetah07{
   lenguageSpoken: ['es_CO', 'en_US' /*in progress*/]
 }
 ```
-You can find me 🌎:
+## You can find me 🌎:
 - [Blog](https://Zetah.dev)
 - [Twitter](https://twitter.com/Zetah_JS)
 - [LinkedIn](https://www.linkedin.com/in/johan-sebastian-castro-lopez-67425717a/)
@@ -28,7 +29,9 @@ You can find me 🌎:
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  <code><img height="20" alt="misql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>   
+
+
 
 [![Zetah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zetah07)](https://github.com/anuraghazra/github-readme-stats)
 

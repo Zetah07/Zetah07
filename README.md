@@ -1,5 +1,5 @@
 ### Hey, nice to see you. 
-<p align="center"><a href="https://twitter.com/Zetah_JS"><img width="80%" alt="Hello, I'm Johan Sebastian 👋💻 I do open source!" src="" /></a></p>
+<p align="center"><a href="https://zetah.dev"><img width="80%" alt="Hello, I'm Johan Sebastian 👋💻 I do open source!" src="" /></a></p>
 
 
 
@@ -11,7 +11,7 @@ const Zetah07{
   pronouns: 'he' | 'him',
   from:'Medellín, Colombia',
   technologies: 'Fullstack Dev',
-  code: ['Javascript', 'HTML', 'CSS', ['Styled-Components', 'Modules']],
+  code: ['Javascript', 'HTML', 'CSS', Typescript, Python /* in progress*/],
     frontEnd:{
       js:['React','NextJs']
       },

@@ -1,11 +1,6 @@
 ### Hey, nice to see you. 
 <p align="center"><a href="https://zetah.dev"><img width="80%" alt="Hello, I'm Johan Sebastian 👋💻 I do open source!" src="" /></a></p>
 
-![GitHub followers](https://img.shields.io/github/followers/Zetah07?label=Follow&style=social)
-[![Linkedin: anmol](https://img.shields.io/badge/-Zetahdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Zetahdev/)](https://www.linkedin.com/in/www.linkedin.com/in/Zetahdev/)
-
-
-
 ## about me in code
 ```js 
 const Zetah07={
@@ -25,6 +20,11 @@ const Zetah07={
   lenguageSpoken: ['es_CO', 'en_US' /*in progress*/]
 }
 ```
+
+![GitHub followers](https://img.shields.io/github/followers/Zetah07?label=Follow&style=social)
+[![Linkedin: anmol](https://img.shields.io/badge/-Zetahdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Zetahdev/)](https://www.linkedin.com/in/www.linkedin.com/in/Zetahdev/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zetah_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zetah_js" height="30" width="40" /></a>

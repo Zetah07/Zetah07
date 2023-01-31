@@ -23,7 +23,7 @@ const Zetah07={
 ```
 
 ![GitHub followers](https://img.shields.io/github/followers/Zetah07?label=Follow&style=social)
-[![Linkedin: anmol](https://img.shields.io/badge/-Zetahdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Zetahdev/)](https://www.linkedin.com/in/www.linkedin.com/in/Zetahdev/)
+[![Linkedin: anmol](https://img.shields.io/badge/-Zetahdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Zetahdev/)](https://www.linkedin.com/in/Zetahdev/)
 
 
 <h3 align="left">Connect with me:</h3>

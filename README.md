@@ -27,7 +27,7 @@ const Zetah07={
 <p align="left"> <a href="https://twitter.com/zetah_js" target="blank"><img src="https://img.shields.io/twitter/follow/zetah_js?logo=twitter&style=for-the-badge" alt="zetah_js" /></a> </p>
 
 - 🔭 I’m currently working on [Grooming Argentina](https://helpful-conkies-214a74.netlify.app/)
-- 👀 I'm collaborating with [SourceSquack](https://github.com/organizations/SourceSquack)
+- 👀 I'm collaborating with [SourceSquack](https://github.com/SourceSquack)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

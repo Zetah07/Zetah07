@@ -10,6 +10,7 @@ const Zetah07={
   technologies: 'Fullstack Dev',
   code: ['Javascript', 'HTML', 'CSS', 'Typescript', 'Python' /* in progress*/],
     frontEnd:{
+      ui:['Figma', 'Sketch']
       js:['React','NextJs']
       },
     backEnd:{

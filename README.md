@@ -46,10 +46,11 @@ const Zetah07={
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,javascript,react,firebase,nextjs,swift,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
  
 </div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zetah07&show_icons=true&locale=en&layout=compact" alt="zetah07" /></p>
